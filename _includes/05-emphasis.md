@@ -1,1 +1,1 @@
-**awesome**
+*italic* **bold** _italic_
